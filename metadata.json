@@ -1,0 +1,7 @@
+{
+  "name": "IELTS 23-Week Success Tracker",
+  "description": "A comprehensive 23-week IELTS preparation tracker (Jan 19 - July 1) with daily tasks, active output logging, and AI feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
